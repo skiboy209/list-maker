@@ -1,0 +1,11 @@
+{
+  "name": "list-maker",
+  "version": "1.0.0",
+  "description": "list-maker vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "skiboy209 dallanrocks@gmail.com",
+  "license": "MIT"
+}
